@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon trees/priority-queue/notes"
+    "start": "nodemon hash-tables/notes"
   },
   "keywords": [],
   "author": "",
