@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon graphs/dijkstra's-algorithm/notes"
+    "start": "nodemon dynamic-programming/notes"
   },
   "keywords": [],
   "author": "",
